@@ -3,6 +3,8 @@ streamlit run "First Streamlit App/main.py"
 
 # IMDB Movies Dataset Explorer
 
+[Link to Streamlit Application](https://nf-nd-firstproject.streamlit.app)
+
 ## Overview
 
 This project creates an interactive Streamlit dashboard for exploring patterns and relationships in 10,000 movies from The MOvie Database (TMDB). With this applicaiton you can analyze movie data through a sortable tables, a scatter plots with trendline analysis, and categorical bar chart.
