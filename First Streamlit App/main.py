@@ -24,7 +24,7 @@ st.write("This dataset is a collection of 10000 movies pulled from The Movie Dat
 # ============================================================================
 
 # Load the movie dataset from CSV
-df = pd.read_csv("/First Streamlit App/data/trimmed_movies.csv")
+df = pd.read_csv("First Streamlit App/data/trimmed_movies.csv")
 
 # Define all available columns in the complete dataset
 complete_column_names = [
