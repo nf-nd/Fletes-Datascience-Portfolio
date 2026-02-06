@@ -16,7 +16,7 @@ st.title("Project 1 — MDSC 20009")
 st.write("This interactive dashboard provides tools to explore the IMDB Movies dataset. Use the controls to filter data, compare variables, and inspect trends, distributions, and aggregated summaries.")
 
 # Provide dataset description
-st.write("This dataset is a collection of 10000 movies pulled from The Movie Database (TMDB) API, packaged into a single 196MB CSV file . It includes 20 different columns covering everything you'd want to know about a film—titles, genres, cast and crew, plot keywords, budgets, revenue, release dates, languages, production companies, vote counts, reviews, and recommendations . The movies span from the late 1900s to 2024, with about half being English-language films and a heavy representation of documentaries at 29 percent of the collection. The dataset is from Kaggle and was released under a public domain license, making it ideal for a school project.")
+st.write("This dataset is a collection of 10000 movies pulled from The Movie Database API, packaged into a single 196MB CSV file . It includes 20 different columns covering everything you'd want to know about a film—titles, genres, cast and crew, plot keywords, budgets, revenue, release dates, languages, production companies, vote counts, reviews, and recommendations . The movies span from the late 1900s to 2024, with about half being English-language films and a heavy representation of documentaries at 29 percent of the collection. The dataset is from Kaggle and was released under a public domain license, making it ideal for a school project.")
 
 
 # ============================================================================
